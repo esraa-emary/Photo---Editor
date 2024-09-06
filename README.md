@@ -1,2 +1,2 @@
 # Photo Editor
-### This program applies some effects to photos.
+### This program takes photos and applies some effects to it.
